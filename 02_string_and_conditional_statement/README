@@ -1,0 +1,25 @@
+# Python Lecture 2 String and conditional statement 🐍
+
+This repository contains beginner-friendly Python programs covering strings, conditions, and logic building. Each file focuses on a specific foundational topic.
+
+# Included File :-
+
+1. strings_basics.py 
+   ➤ Demonstrates string creation, indexing, slicing, concatenation, and formatting.
+
+2. string_methods_examples.py  
+   ➤ Covers common string methods like `.upper()`, `.lower()`, `.find()`, `.replace()`, etc.
+
+3. if_else_conditions.py`  
+   ➤ Checks whether a number is positive, negative, or zero using basic if-else logic.
+
+4. nested_conditions.py  
+   ➤ Uses nested if-else to determine student grades based on marks.
+
+5. palindrome_check.py  
+   ➤ Verifies if a number is a palindrome using reverse logic.
+
+6. username_password_check.py  
+   ➤ Basic login logic that compares user input to stored username and password.
+
+Happy Coding! 
