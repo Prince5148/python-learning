@@ -1,0 +1,20 @@
+# Lecture 3 – Lists & Tuples in Python
+
+This lecture covers the basics and key differences of Python Lists and Tuples.
+
+# Files Included
+
+> list_basics.py – Creating lists, accessing elements, indexing, and slicing
+> list_methods_examples.py – Demonstration of list methods like append() , insert(), remove(), pop(), sort(), reverse(), etc.
+> tuple_basics.py – Creating tuples, accessing elements, demonstrating immutability and slicing
+
+# What You'll Learn
+
+- Difference between List and Tuple
+- Mutability of Lists vs Immutability of Tuples
+- Indexing and Slicing operations
+- Common built-in methods for Lists
+
+
+Happy Coding
+GitHub by Prince Makawana
